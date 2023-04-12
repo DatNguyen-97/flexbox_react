@@ -28,7 +28,7 @@
   width: 1200px;
   height: 600px;
   margin: 50px auto;
-  background-color: #b72d2d;
+  /* background-color: #b72d2d; */
   display: flex;
   justify-content: space-between;
 }
