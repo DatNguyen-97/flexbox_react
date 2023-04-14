@@ -27,10 +27,7 @@
 #container1 {
   width: 100%;
   height: 100%;
-  margin: 50px auto;
-  /* background-color: #b72d2d; */
-  /* display: flex; */
-  justify-content: space-between;
+  margin-left: 100px;
 }
 
 .App-link {
