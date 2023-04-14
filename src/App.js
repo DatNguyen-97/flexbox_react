@@ -1,8 +1,14 @@
 import './App.css';
+import Caculator from './components/Caculator';
 import FlexContent from './components/FlexContent';
 function App() {
   return (
-    <FlexContent />
+    <div id="container1">
+      <div >
+          <FlexContent />
+          <Caculator />
+      </div>
+    </div>
 
   );
 }

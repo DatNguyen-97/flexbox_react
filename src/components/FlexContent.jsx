@@ -14,10 +14,11 @@ const styles = {
     container: {
         width : 1200,
         height : 600,
-        margin: '50px auto',
+        // margin: '50px auto',
         display: 'flex',
         justifyContent: 'space-between',
         gap: 30,
+        marginBottom: '50px',
     },
  
 }
